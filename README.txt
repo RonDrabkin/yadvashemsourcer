@@ -6,6 +6,6 @@ Step 2: run the file install_pyperclip.bat (under the Installers folder)
 
 Step 3: go to the yadvashem page you would like to copy and press control + a
 
-Step 4: run convert_control_clipboard.py 
+Step 4: in terminal, run convert_control_clipboard.py 
 
 Step 5: paste your newly converted data as a source!
